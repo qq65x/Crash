@@ -4,7 +4,7 @@
 
 
   <p align="center">
-	<a target="_blank" href="https://github.com/MetaCubeX/mihomo/releases">
+	<a target="_blank" href="https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.17">
     <img src="https://img.shields.io/github/release/MetaCubeX/mihomo.svg?style=flat-square&label=Core">
   </a>
   <a target="_blank" href="https://github.com/juewuy/ShellCrash/releases">
