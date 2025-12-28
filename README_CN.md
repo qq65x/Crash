@@ -44,7 +44,7 @@
 
 ```shell
 #GitHub源(可能需要代理)
-export url='https://raw.githubusercontent.com/qq6510/Crash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+export url='https://raw.githubusercontent.com/qq65x/Crash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
 ```
 
 
@@ -52,7 +52,7 @@ export url='https://raw.githubusercontent.com/qq6510/Crash/master' && sh -c "$(c
 
 ```Shell
 #GitHub源(可能需要代理)
-export url='https://raw.githubusercontent.com/qq6510/Crash/master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
+export url='https://raw.githubusercontent.com/qq65x/Crash/master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
 ```
 
 
