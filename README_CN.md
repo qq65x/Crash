@@ -3,14 +3,7 @@
 </h1>
 
 
-  <p align="center">
-	<a target="_blank" href="https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.17">
-    <img src="https://img.shields.io/github/release/MetaCubeX/mihomo.svg?style=flat-square&label=Core">
-  </a>
-  <a target="_blank" href="https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.17">
-    <img src="https://img.shields.io/github/release/juewuy/ShellCrash.svg?style=flat-square&label=ShellCrash&colorB=green">
-  </a>
-</p>
+
 
 中文 | [English](README.md) 
 
